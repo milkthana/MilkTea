@@ -148,6 +148,3 @@ Administrator team
 
 ![Alt text](https://github.com/milkzu/MilkTea/blob/main/ERD.png?raw=true "1")
 
-## The VDO recording of presentation
-
-https://drive.google.com/file/d/11aRG-6oGEFIsu6deUc01Jj_Rva-dP_FM/view?usp=sharing
