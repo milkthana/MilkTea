@@ -131,22 +131,22 @@ Administrator team
 
 ## Functional decomposition diagram
 
-![Alt text](https://github.com/MilkTea/blob/main/functional_decomposition.png?raw=true "1")
+![Alt text](https://github.com/milkzu/MilkTea/blob/main/functional_decomposition.png?raw=true "1")
 
 ## DFD
 
 ### DFD Level 1
 
-![Alt text](https://github.com/MilkTea/blob/main/DFD%20Level%201.png?raw=true "1")
+![Alt text](https://github.com/milkzu/MilkTea/blob/main/DFD%20Level%201.png?raw=true "1")
 
 ### DFD Level 2
 
 
-![Alt text](https://github.com/MilkTea/blob/main/DFDlv2.png?raw=true "1")
+![Alt text](https://github.com/milkzu/MilkTea/blob/main/DFDlv2.png?raw=true "1")
 
 ## ERD
 
-![Alt text](https://github.com/MilkTea/blob/main/ERD.png?raw=true "1")
+![Alt text](https://github.com/milkzu/MilkTea/blob/main/ERD.png?raw=true "1")
 
 ## The VDO recording of presentation
 
